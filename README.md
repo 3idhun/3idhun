@@ -7,7 +7,7 @@
 
 <br>
 
-- 📫 reach me : **midhunmohanm.work@gmail.com**
+<p align="center">📫 reach me : **midhunmohanm.work@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
