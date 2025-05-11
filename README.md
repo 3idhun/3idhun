@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Midhun Mohan M</h1>
-<h3 align="center">I'm a passionate ECE graduate with a keen interest in deep learning, software development, and the Internet of Things (IoT). I enjoy building intelligent systems and practical applications that integrate hardware with smart software. Currently exploring full-stack development, scalable ML deployment, and embedded system design.</h3>
+<h4 align="center">I'm a passionate ECE graduate with a keen interest in deep learning, software development, and the Internet of Things (IoT). I enjoy building intelligent systems and practical applications that integrate hardware with smart software. Currently exploring full-stack development, scalable ML deployment, and embedded system design.</h4>
 
 <br>
 
