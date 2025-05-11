@@ -9,15 +9,15 @@
 
 ## 💡 About Me
 
-I'm a passionate ECE graduate with a keen interest in deep learning, software development, and the Internet of Things (IoT). I love building innovative solutions to real-world problems and have hands-on experience with deploying machine learning models in practical applications.
+I'm a passionate ECE graduate with a keen interest in deep learning, software development, and the Internet of Things (IoT). I enjoy building intelligent systems and practical applications that integrate hardware with smart software.
 
-I'm currently exploring advanced ML techniques, web development frameworks, and cloud deployment strategies to grow as a full-stack developer and machine learning engineer.
+Currently exploring full-stack development, scalable ML deployment, and embedded system design.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, HTML5, CSS, JavaScript
+- **Languages:** Python, C, HTML5, CSS, JavaScript
 - **Frameworks:** Django, Flask, TensorFlow, Keras
 - **Tools & Concepts:** Git, DevOps, SDLC, Pytest, Apache, REST APIs
 - **Databases & Cloud:** SQL, MongoDB, AWS S3
@@ -25,19 +25,23 @@ I'm currently exploring advanced ML techniques, web development frameworks, and 
 
 ---
 
-## 🚀 Projects
+## 🚀 Pinned Projects
 
-### 🎤 Speech Recognition for Cerebral Palsy  
-*Presented at ICBDAIT 2024*  
-- Built a deep learning-based audio classification model using Librosa and TensorFlow.
-- Achieved **87% accuracy** using MFCCs, Mel-spectrograms, and ZCR features.
-- Deployed on **Raspberry Pi 5** for real-time inference.
+### 🔊 [Audio Classification Using Deep Learning](https://github.com/midhunmohanm/Audio-Classification-Using-Deeplearning)
+Classifies audio waveforms using various deep learning models. Extracts MFCCs and other features for training and analysis using TensorFlow and Librosa.  
+*Tech: Python, TensorFlow, Librosa, Jupyter Notebook*
 
-### 🖼️ Image Classification using CNN  
-*Personal Project (2025)*  
-- Developed a CNN-based image classifier with **99% accuracy** using TensorFlow and Keras.
-- Created a web app using **Flask/Django** with REST API endpoints.
-- Deployed the application on **AWS**, storing results in an SQL database.
+### 🖼️ [Image Classification Using CNN](https://github.com/midhunmohanm/Image-Classification-Using-CNN)  
+A high-accuracy image classifier built using Convolutional Neural Networks. Deployed with a web interface and integrated REST API.  
+*Tech: Python, TensorFlow, Keras, Flask/Django*
+
+### ⚡ [Smart Meter Using ESP8266](https://github.com/midhunmohanm/Smart-Meter-Using-ESP8266)  
+Converts analog energy meters into digital smart meters using ESP8266 and LDR. Reads pulse counts and calculates units consumed.  
+*Tech: C, IoT, ESP8266, Embedded Systems*
+
+### 🎮 [Snake-Water-Gun Game](https://github.com/midhunmohanm/Snake-water-gun-game)  
+A simple CLI Python project that mimics the classic "Rock, Paper, Scissors" variant for fun and practice.  
+*Tech: Python*
 
 ---
 
@@ -53,18 +57,10 @@ Percentage: 78%
 
 ---
 
-## 📡 Internship
-
-**Internet of Things - IoT | Open Leaves**  
-Dec 2022 (3 Days)  
-- Gained practical exposure to IoT systems and integration techniques.
-
----
-
 ## 📫 Let's Connect!
 
 I'm open to collaboration on ML, IoT, or web-based projects. Feel free to connect or drop me an email!
 
 ---
 
-_Thanks for visiting my profile! ⭐_
+_Thanks for stopping by! ⭐_
