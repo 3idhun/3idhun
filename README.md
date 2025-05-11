@@ -1,66 +1,14 @@
-# 👋 Hi, I'm Midhun Mohan M
+<h1 align="center">Hi 👋, I'm Midhun Mohan M</h1>
+- 📫 How to reach me **midhunmohanm.work@gmail.com**
 
-🎓 **Electronics and Communication Engineering Graduate**  
-📍 Bengaluru, Karnataka, India  
-📧 midhunmohanm.work@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/midhunmohanm)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/midhunmohanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midhunmohanm" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 💡 About Me
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3idhun&show_icons=true&locale=en&layout=compact" alt="3idhun" /></p>
 
-I'm a passionate ECE graduate with a keen interest in deep learning, software development, and the Internet of Things (IoT). I enjoy building intelligent systems and practical applications that integrate hardware with smart software.
-
-Currently exploring full-stack development, scalable ML deployment, and embedded system design.
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, C, HTML5, CSS, JavaScript
-- **Frameworks:** Django, Flask, TensorFlow, Keras
-- **Tools & Concepts:** Git, DevOps, SDLC, Pytest, Apache, REST APIs
-- **Databases & Cloud:** SQL, MongoDB, AWS S3
-- **Soft Skills:** Problem-solving, Teamwork, Critical Thinking, Communication
-
----
-
-## 🚀 Pinned Projects
-
-### 🔊 [Audio Classification Using Deep Learning](https://github.com/midhunmohanm/Audio-Classification-Using-Deeplearning)
-Classifies audio waveforms using various deep learning models. Extracts MFCCs and other features for training and analysis using TensorFlow and Librosa.  
-*Tech: Python, TensorFlow, Librosa, Jupyter Notebook*
-
-### 🖼️ [Image Classification Using CNN](https://github.com/midhunmohanm/Image-Classification-Using-CNN)  
-A high-accuracy image classifier built using Convolutional Neural Networks. Deployed with a web interface and integrated REST API.  
-*Tech: Python, TensorFlow, Keras, Flask/Django*
-
-### ⚡ [Smart Meter Using ESP8266](https://github.com/midhunmohanm/Smart-Meter-Using-ESP8266)  
-Converts analog energy meters into digital smart meters using ESP8266 and LDR. Reads pulse counts and calculates units consumed.  
-*Tech: C, IoT, ESP8266, Embedded Systems*
-
-### 🎮 [Snake-Water-Gun Game](https://github.com/midhunmohanm/Snake-water-gun-game)  
-A simple CLI Python project that mimics the classic "Rock, Paper, Scissors" variant for fun and practice.  
-*Tech: Python*
-
----
-
-## 🎓 Education
-
-**B.Tech in Electronics and Communication Engineering**  
-*Sree Buddha College of Engineering, Pattoor (2020 – 2024)*  
-GPA: 6.63
-
-**Higher Secondary Education**  
-*Netaji HSS, Pramadom (2020)*  
-Percentage: 78%
-
----
-
-## 📫 Let's Connect!
-
-I'm open to collaboration on ML, IoT, or web-based projects. Feel free to connect or drop me an email!
-
----
-
-_Thanks for stopping by! ⭐_
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3idhun&" alt="3idhun" /></p>
