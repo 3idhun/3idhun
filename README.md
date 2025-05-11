@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Midhun Mohan M</h1>
 <h3 align="center">I'm a passionate ECE graduate with a keen interest in deep learning, software development, and the Internet of Things (IoT). I enjoy building intelligent systems and practical applications that integrate hardware with smart software. Currently exploring full-stack development, scalable ML deployment, and embedded system design.</h3>
 
+<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3idhun" alt="3idhun" /></a> </p>
 
-- 📫 reach me **midhunmohanm.work@gmail.com**
+<br>
+
+- 📫 reach me : **midhunmohanm.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
