@@ -3,11 +3,11 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3idhun" alt="3idhun" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3idhun" alt="3idhun" /></a> </p>
 
 <br>
 
-<p align="center">📫 reach me : **midhunmohanm.work@gmail.com** </p>
+<p align="center">📫 reach me **midhunmohanm.work@gmail.com** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
