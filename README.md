@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p style="text-align: justify;">I'm a passionate ECE graduate with a keen interest in deep learning, software development, and the Internet of Things (IoT). I enjoy building intelligent systems and practical applications that integrate hardware with smart software. Currently exploring full-stack development, scalable ML deployment, and embedded system design.</p> 
+<p style="text-align: justify;">I'm a passionate ECE graduate with a keen interest in deep learning, software development, and the Internet of Things (IoT). I enjoy building intelligent systems and practical applications that integrate hardware with smart software. Currently exploring full-stack development, scalable ML deployment, and embedded system design.</p>
 
 
 ## 🌐 Socials:
